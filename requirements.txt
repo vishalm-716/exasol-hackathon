@@ -1,0 +1,5 @@
+# Tested with numpy 2.5.3, pandas 3.0.5, scikit-learn 1.9.1, Python 3.13.
+# Older versions may work but have not been tested.
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
